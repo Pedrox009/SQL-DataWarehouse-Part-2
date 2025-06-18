@@ -1,5 +1,5 @@
 ## SQL Data Warehouse and Analytics
-In this project, we build data modeling and analytics.
+In this project, we build data modeling and analytics. This is part 2 where it is based on the gold layer only.
 
 Project Overview
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
@@ -11,6 +11,7 @@ The following are our architecture layers:
 ## Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+-
+- Customer Behavior
+- Product Performance
+- Sales Trends
